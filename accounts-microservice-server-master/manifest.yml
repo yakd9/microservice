@@ -1,0 +1,4 @@
+applications:
+  - name: MyAccounts-HelloWorld-WebApp
+    memory: 500MB
+    path: target/com.doj.ms.accounts-0.0.1-SNAPSHOT.jar
